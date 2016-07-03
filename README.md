@@ -1,2 +1,2 @@
 # netbeans-project
-My 
+My small java application created with Netbeans IDE
